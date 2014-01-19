@@ -1,0 +1,29 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+	 
+    <item
+        android:id="@+id/que_me_lleva"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/que_me_lleva"/>
+    <item
+        android:id="@+id/tipo_zona"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/tipo_zona"/>
+    <item
+        android:id="@+id/tipo_trafico"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/tipo_trafico"/>
+    <item
+        android:id="@+id/todas_rutas"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/todas_rutas"/>
+    <item
+        android:id="@+id/obtener_cercanas"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/obtener_cercanas"/>
+
+</menu>

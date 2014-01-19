@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">mapstest</string>
+    <string name="que_me_lleva">Que me lleva?</string>
+    <string name="tipo_zona">Zona?</string>
+    <string name="tipo_trafico">Trafico?</string>   
+    <string name="todas_rutas">Rutas</string>   
+    <string name="hello_world">Hello world!</string>
+	<string name="tap_instructions">Toca la pantalla</string>
+	<string name="obtener_cercanas">Obtener rutas cercanas</string>
+</resources>
